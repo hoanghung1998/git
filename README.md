@@ -1,2 +1,2 @@
-# git
-test
+tìm hiểu về git 
+
